@@ -1,0 +1,27 @@
+SQL comments
+-- SELECT COUNT(*) 
+--FROM products;  -> 31
+-- SELECT COUNT(*)
+-- FROM customers; -> 50
+-- SELECT COUNT(*) 
+--FROM orders;    -> 500
+-- SELECT COUNT(*)
+-- FROM category_targets; -> 6
+--SELECT status, COUNT(*) 
+--FROM orders GROUP BY status;
+--Cancelled = 42, Delivered = 434, Pending = 24
+
+SELECT COUNT(*)
+FROM products;
+
+SELECT COUNT(*) 
+FROM customers;
+
+SELECT COUNT(*)
+FROM orders;
+
+SELECT COUNT(*)
+FROM category_targets;
+
+SELECT status, COUNT(*) 
+FROM orders GROUP BY status;
