@@ -51,8 +51,9 @@ https://public.tableau.com/app/profile/akash.singh4527/viz/BigBasketCategoryDash
 See [`DATA_STORY.md`](./DATA_STORY.md) for category-by-category tier
 status and recommendations for the category team.
 
-## Part 4 — Python/Pandas Notebook
-*(To be added)*
-
+   ## Part 4 — Python/Pandas Notebook
+   See [`part4-python/analysis.ipynb`](./part4-python/analysis.ipynb) for
+   the full cleaning, analysis, and cross-validation notebook.
+   
   ## AI-Assisted Prompting Log
   See [`ai_log.md`](./ai_log.md)
