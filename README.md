@@ -54,5 +54,5 @@ status and recommendations for the category team.
 ## Part 4 — Python/Pandas Notebook
 *(To be added)*
 
-## AI-Assisted Prompting Log
-See [`part1-sql/ai_log.md`](./part1-sql/ai_log.md)
+  ## AI-Assisted Prompting Log
+  See [`ai_log.md`](./ai_log.md)
